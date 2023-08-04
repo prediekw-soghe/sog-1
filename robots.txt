@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://prediekw-soghe.github.io/sog-1/sitemap.xml
